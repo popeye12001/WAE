@@ -1,0 +1,8 @@
+{
+  "name": "WAE - Wireless Encrypted All Protocol Portal",
+  "description": "A developer portal and protocol simulator for the WAE (Wireless Encrypted All) Android application, featuring implementation plans, Kotlin snippets, and a live mesh network visualizer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
